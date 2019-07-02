@@ -24,7 +24,7 @@ Hardware :
 
 Software Used:
 - Arduino IDE
-- [Ubidot](https://ubidots.com/)
+- [ThigSpeak](https://thingspeak.com/)
 
 Library Used:
 - PubSubClient Library
@@ -106,7 +106,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 ## Serial monitor output.
 ![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/vibration%20serial.JPG)
 
-## Making the Ubidot work:
+## Making the ThingSpeak work:
 - **Create the account on [Ubidot](https://ubidots.com/).**
 - **Go to my profile and note down the token key which is a unique key for every account and paste it to your ESP32 code before uploading.**
 - **Add a new device to your ubidot dashboard name esp32.**
