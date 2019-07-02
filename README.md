@@ -100,7 +100,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 ##  Uploading the code  to ESP32 using Arduino IDE:
 - **Download and include the PubSubClient Library and Wire.h Library.**
 - **You must assign your API key , SSID (WiFi Name) and Password of the available network.**
-- **Compile and upload the  [ESP32-ThinSpeak.ino]() code.**
+- **Compile and upload the  [ESP32-ThinSpeak.ino](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Esp32-Thingspeak.ino) code.**
 - **To verify the connectivity of the device and the data sent, open the serial monitor.If no response is seen, try unplugging your ESP32 and then plugging it again. Make sure the baud rate of the Serial monitor is set to the same one specified in your code 115200.**
 
 ## Serial monitor output.
