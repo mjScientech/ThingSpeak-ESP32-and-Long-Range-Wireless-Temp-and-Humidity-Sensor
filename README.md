@@ -120,16 +120,16 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak6.JPG)
 
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak8.JPG)
-- **Now save the Channel. **
+- **Now save the Channel.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak7.JPG)
-- **Now you can find your Api keys on the dashboard. Go to the tap on the homepage and find your 'Write Api Key' which must be updated before uploading the code  to ESP32.
+- **Now you can find your Api keys on the dashboard. Go to the tap on the homepage and find your 'Write Api Key' which must be updated before uploading the code  to ESP32.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak9.JPG)
-- **Once Channel is created you would be able to view your temperature and vibration data in private view with Fields you created inside the Channel. **
+- **Once Channel is created you would be able to view your temperature and vibration data in private view with Fields you created inside the Channel.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak11.JPG)
 - **To plot a graph between  different vibration data ,you can use MATLAB Visualization.**
 - **For this go to App ,Click on MATLAB Visualization.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak13.JPG)
-- **Inside it select Custom, in this we have select create 2-D line plots with y-axes on both left and right side.Now click create**
+- **Inside it select Custom, in this we have select create 2-D line plots with y-axes on both left and right side.Now click create.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak14.JPG)
 
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak17.JPG)
