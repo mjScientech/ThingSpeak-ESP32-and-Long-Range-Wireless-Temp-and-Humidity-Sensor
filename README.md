@@ -104,7 +104,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - **To verify the connectivity of the device and the data sent, open the serial monitor.If no response is seen, try unplugging your ESP32 and then plugging it again. Make sure the baud rate of the Serial monitor is set to the same one specified in your code 115200.**
 
 ## Serial monitor output.
-![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/vibration%20serial.JPG)
+![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/serial%20output2.JPG)
 
 ## Making the ThingSpeak work:
 - **Create the account on [ThigSpeak](https://thingspeak.com/).**
