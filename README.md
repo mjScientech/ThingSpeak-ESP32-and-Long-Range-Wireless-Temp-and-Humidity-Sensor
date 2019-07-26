@@ -1,27 +1,18 @@
-Vibration is truly a to and fro movement—or oscillation—of machines and components in motorized gadgets. Vibration in the industrial system may be a symptom, or motive, of a hassle, or it can be associated with everyday operation. For instance, oscillating sanders and vibratory tumblers depend upon vibration to feature. Internal combustion engines and tools drive, then again, revel in a sure amount of unavoidable vibration. Vibration can imply a hassle and if left unchecked can cause harm or expedited deterioration. Vibration can be resulting from one or extra factors at any given time, the maximum not unusual being an imbalance, misalignment, put on, and looseness.This damage can be minimize by analyzing Temperature and Vibration Data on ThingSpeak using esp32 and NCD wireless vibration and temperature sensor.
-![alt tag](https://github.com/mjScientech/https-github.com-mjScientech-ESP32-AND-SI7021/blob/master/Vibration-Temp-NO-Zigmo-600x400.png)
-# IoT Long Range Wireless Vibration And Temperature Sensor
-IoT Long Range Wireless Vibration And Temperature Sensor is battery operated and wireless, meaning that current or communication wires need not be pulled to get it up and operating. It tracks the vibration information of your machine constantly and captures and operate hours at full resolution together with other temperature parameters. This information is then transferred for ongoing diagnosis of the health of your machine to ThingSpeak safe cloud in real time. It is best suited for industrial devices such as engines, fans, pumps and compressors to rotate and reciprocate.
-In this we are using NCD’s Long Range IoT Industrial wireless vibration and temperature sensor, boasting up to a 2 Mile range using a wireless mesh networking architecture. Incorporating a precision 16-bit vibration and temperature sensor, this device transmits highly accurate vibration and temperature data at user-defined intervals.
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/imgonline-com-ua-twotoone-nvNb5VFjmc.jpg)
+**In this , we will measure  temperature and humidity using NCD  temperature and humidity sensor, Esp32, ThingSpeak.**
 
-![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/ESP32_1.png)
-# ESP-32
-The ESP32 makes it easy to use the Arduino IDE and the Arduino Wire Language for IoT applications. This ESp32 IoT Module combines Wi-Fi, Bluetooth, and Bluetooth BLE for a variety of diverse applications. This module comes fully-equipped with 2 CPU cores that can be controlled and powered individually, and with an adjustable clock frequency of 80 MHz to 240 MHz. This ESP32 IoT WiFi BLE Module with Integrated USB is designed to fit in all ncd.io IoT products.
+**Hardware** :
+- **[ESP-32](https://store.ncd.io/product/esp32-iot-wifi-ble-module-with-integrated-usb/)**:The ESP32 makes it easy to use the Arduino IDE and the Arduino Wire Language for IoT applications. This ESp32 IoT Module combines Wi-Fi, Bluetooth, and Bluetooth BLE for a variety of diverse applications. This module comes fully-equipped with 2 CPU cores that can be controlled and powered individually, and with an adjustable clock frequency of 80 MHz to 240 MHz. This ESP32 IoT WiFi BLE Module with Integrated USB is designed to fit in all ncd.io IoT products.Monitor sensors and control relays, FETs, PWM controllers, solenoids, valves, motors and much more from anywhere in the world using a web page or a dedicated server.We manufactured our own version of the ESP32 to fit into NCD IoT devices, offering more expansion options than any other device in the world! Integrated USB port allows easy programming of the ESP32. The ESP32 IoT WiFi BLE Module is an incredible platform for IoT application development. This ESP32 IoT WiFi BLE Module can be programmed using Arduino IDE.
 
-Monitor sensors and control relays, FETs, PWM controllers, solenoids, valves, motors and much more from anywhere in the world using a web page or a dedicated server.
+- **[IoT Long Range Wireless  Temperature And Humidity  Sensor](https://store.ncd.io/product/industrial-long-range-wireless-temperature-humidity-sensor/)**:Industrial Long Range Wireless Temperature Humidity Sensor. Grade with a Sensor Resolution of ±1.7%RH ±0.5°C .Up to 500,000 Transmissions from 2 AA Batteries.Measures -40°C to 125°C with Batteries that Survive these Ratings.Superior 2-Mile LOS Range & 28 miles with High-Gain Antennas.Interface to Raspberry Pi, Microsoft Azure, Arduino and More
 
-We manufactured our own version of the ESP32 to fit into NCD IoT devices, offering more expansion options than any other device in the world! Integrated USB port allows easy programming of the ESP32. The ESP32 IoT WiFi BLE Module is an incredible platform for IoT application development. This ESP32 IoT WiFi BLE Module can be programmed using Arduino IDE.
+- **[Long Range Wireless Mesh Modem with USB Interface](https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/)**
 
-Hardware :
-- [ESP-32](https://store.ncd.io/product/esp32-iot-wifi-ble-module-with-integrated-usb/)
-- [IoT Long Range Wireless Vibration And Temperature Sensor](https://store.ncd.io/product/iot-long-range-wireless-vibration-and-temperature-sensor/)
-- [Long Range Wireless Mesh Modem with USB Interface](https://store.ncd.io/product/zigbee-coordinator-long-range-wireless-mesh-modem-with-usb-interface/)
-
-Software Used:
+**Software Used:**
 - Arduino IDE
-- [ThigSpeak](https://thingspeak.com/)
+- [Ubidot](https://ubidots.com/)
 
-Library Used:
+**Library Used:**
 - PubSubClient Library
 - Wire.h
 
