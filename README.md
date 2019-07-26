@@ -77,7 +77,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - **To verify the connectivity of the device and the data sent, open the serial monitor.If no response is seen, try unplugging your ESP32 and then plugging it again. Make sure the baud rate of the Serial monitor is set to the same one specified in your code 115200.**
 
 ## Serial monitor output.
-![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/serial%20output2.JPG)
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/serialmonitor.JPG)
 
 ## Making the ThingSpeak work:
 - **Create the account on [ThigSpeak](https://thingspeak.com/).**
@@ -90,11 +90,11 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - **Inside New Channel ,name the channel.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak5.JPG)
 - **Name the Field inside the Channel,Field are the variable in which the data is published.**
-![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak6.JPG)
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/channel1.JPG)
 
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak8.JPG)
 - **Now save the Channel.**
-![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak7.JPG)
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/channel2.JPG)
 - **Now you can find your Api keys on the dashboard. Go to the tap on the homepage and find your 'Write Api Key' which must be updated before uploading the code  to ESP32.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak9.JPG)
 - **Once Channel is created you would be able to view your temperature and vibration data in private view with Fields you created inside the Channel.**
@@ -115,7 +115,7 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 
 ## OUTPUT
 
-![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thiongspeak_output.JPG)
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/output1.JPG)
 
 
 
