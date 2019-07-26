@@ -90,6 +90,8 @@ The library cannot currently be used with hardware based on the ENC28J60 chip â€
 - **Inside New Channel ,name the channel.**
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak5.JPG)
 - **Name the Field inside the Channel,Field are the variable in which the data is published.**
+![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/Thigspeak6.JPG)
+
 ![alt tag](https://github.com/mjScientech/ThingSpeak-ESP32-and-Long-Range-Wireless-Temp-and-Humidity-Sensor/blob/master/channel1.JPG)
 
 ![alt tag](https://github.com/mjScientech/IoT--ThingSpeak--ESP32-Long-Range-Wireless-Vibration-And-Temp/blob/master/Thigspeak8.JPG)
